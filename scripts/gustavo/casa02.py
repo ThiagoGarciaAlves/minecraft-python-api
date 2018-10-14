@@ -8,10 +8,9 @@ x = pos.x
 y = pos.y
 z = pos.z
 width = 10
-heigth = 10
-length = 8
-floor = 2
-blockType = block["diamond"]
+heigth = 5
+length = 6
+blockType = block["ironBlock"]
 air = block["air"]
 
 mc.setBlocks(x, y, z, x + width, y + heigth, z + length, blockType)
