@@ -8,5 +8,7 @@ block = {
     "ironDoorBlock" : 71,
     "chest" : 54,
     "ladder" : 65,
-    "bed" : 355
+    "redBed" : 355,
+    "birchDoorBlock" : 194,
+    "mobSpawner" : 52
 }
