@@ -1,8 +1,11 @@
 block = {
     "air" : 0,
     "bedrock" : 7,
-    "water" : 8,
+    "bricks" : 45,
+    "cobblestone" : 4,
+    "dirt" : 3,
+    "ironBlock" : 42,
     "melon" : 103,
     "tnt" : 46,
-    "ironBlock" : 42
+    "water" : 8
 }
