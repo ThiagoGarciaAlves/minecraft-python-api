@@ -1,15 +1,20 @@
 block = {
     "air" : 0,
-    "water" : 8,
-    "melon" : 103,
-    "tnt" : 46,
-    "ironBlock" : 42,
-    "woolWhite" : 35,
     "birchWoodPlank" : 5.2,
-    "torch" : 50,
+    "cobblestone" : 4,
+    "dirt" : 3,
+    "glass" : 20,
+    "grassBlock" : 2,
+    "grassPath" : 208,
+    "ironBlock" : 42,
+    "melon" : 103,
     "oakDoorBlock" : 64,
     "oakWoodSlab" : 126,
-    "spruceWoodSlab" : 126.1,
     "oakWoodStairs" : 53,
-    "glass" : 20
+    "obsidian" : 49,
+    "spruceWoodSlab" : 126.1,
+    "tnt" : 46,
+    "torch" : 50,
+    "water" : 8,
+    "woolWhite" : 35
 }
